@@ -1,3 +1,4 @@
 Red is the first color of the Rainbow.
 Orange is the second color of the Rainbow.
 Yellow is the third color of the Rainbow.
+Green is the fourth color of the Rainbow.
